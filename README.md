@@ -1,2 +1,2 @@
 # Wuerfel
- Game
+ Ein langweiliges Würfelspiel
